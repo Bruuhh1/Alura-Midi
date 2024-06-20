@@ -10,3 +10,7 @@ O MIDI tem um teclado funcional com 9 botões, que ao ser pressionado, reproduzi
 - `Html` : O HTML foi utilizado para a inserção dos elementos <audio>, que irão prover para o JavaScript os controles de reprodução da mídia carregada. 
 - `CSS` : O CSS foi usado para dar formato e indicar a interação do usuário com a interface gráfica, então além de deixar um visual mais atrativo, ele também indica quando os botões são pressionados pelo mouse ou teclado.
 - `JavaScript` : O JavaScript nós proporciona a programação da dinâmica de controle de reprodução de um som, que inicialmente está sendo realizada pelo elemento `<audio>`, e passa este controle para os elementos `<button>`, com todo cuidada para ser um código inteligente, sem repetição, e que cuida dos aspectos visuais.
+
+## 📁 Acesso ao projeto
+
+[Veja o projeto final do curso em funcionamento](https://alura-midi-nu-six.vercel.app/).
